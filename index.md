@@ -140,8 +140,8 @@ eventbrite: 41715514226    # optional: alphanumeric key for Eventbrite registrat
   The workshop organisers have checked that:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>The room is wheelchair / scooter accessible. There are, however, non-motorized doors between the elevator and the MADLab. </li>
+  <li>Accessible restrooms are available near the elevator on the same floor as the MADLab.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
