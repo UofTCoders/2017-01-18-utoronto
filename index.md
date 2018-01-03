@@ -509,12 +509,12 @@ eventbrite: 41715514226    # optional: alphanumeric key for Eventbrite registrat
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
+<!--
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
            Details at https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility {% endcomment %}
   <h3>Python</h3>
-
   <p>
     <a href="http://python.org">Python</a> is a popular language for
     research computing, and great for general-purpose programming as
@@ -523,13 +523,11 @@ eventbrite: 41715514226    # optional: alphanumeric key for Eventbrite registrat
     <a href="https://www.anaconda.com/distribution/">Anaconda</a>,
     an all-in-one installer.
   </p>
-
     <p>
       Regardless of how you choose to install it,
       <strong>please make sure you install Python version 3.x</strong>
       (e.g., 3.6 is fine).
     </p>
-
     <p>
       We will teach Python using the <a href="https://jupyter.org/">Jupyter notebook</a>,
       a programming environment that runs in a web browser. For this to work you will need a reasonably
@@ -539,7 +537,6 @@ eventbrite: 41715514226    # optional: alphanumeric key for Eventbrite registrat
       (some older browsers, including Internet Explorer version 9
       and below, are not).
     </p>
-
   <div class="row">
     <div class="col-md-4">
       <h4 id="python-windows">Windows</h4>
@@ -601,6 +598,7 @@ eventbrite: 41715514226    # optional: alphanumeric key for Eventbrite registrat
   </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
+-->
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
@@ -653,15 +651,14 @@ eventbrite: 41715514226    # optional: alphanumeric key for Eventbrite registrat
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
+<!--
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
-
   <p>
     SQL is a specialized programming language used with databases.  We
     use a simple database manager called
     <a href="http://www.sqlite.org/">SQLite</a> in our lessons.
   </p>
-
   <div class="row">
     <div class="col-md-4">
       <h4 id="sql-windows">Windows</h4>
@@ -693,12 +690,13 @@ eventbrite: 41715514226    # optional: alphanumeric key for Eventbrite registrat
       </p>
     </div>
   </div>
-
   <p><strong>If you installed Anaconda, it also has a copy of SQLite
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
+-->
 
+<!--
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
@@ -706,7 +704,6 @@ eventbrite: 41715514226    # optional: alphanumeric key for Eventbrite registrat
     web browser. <em>Note:</em> this is a Java program that runs on your machine (not in the cloud).
     It runs inside a web browser, but no web connection is needed.
   </p>
-
   <div class="row">
     <div class="col-md-4">
       <h4 id="openrefine-windows">Windows</h4>
@@ -745,6 +742,7 @@ eventbrite: 41715514226    # optional: alphanumeric key for Eventbrite registrat
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+-->
 
 {% comment %}
 <div id="vm">
